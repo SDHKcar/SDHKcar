@@ -1,1 +1,1 @@
-# living-resume
+# This is my living-resume project.
