@@ -36,6 +36,14 @@ p {
   line-height: 2;
 }
 
+
+
+
+
+.me {
+  align-items: center;
+}
+
 .footer-link {
   margin: auto 20px auto 20px;
 }
