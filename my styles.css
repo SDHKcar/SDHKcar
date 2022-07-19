@@ -38,7 +38,10 @@ p {
 
 
 
-
+.warning {
+  align-items: center;
+  color: red;
+}
 
 .me {
   align-items: center;
