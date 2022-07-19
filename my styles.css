@@ -42,6 +42,7 @@ p {
 
 .me {
   align-items: center;
+  border-radius: 100%;
 }
 
 .footer-link {
