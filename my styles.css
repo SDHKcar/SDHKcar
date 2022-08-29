@@ -122,9 +122,15 @@ font-size: 30px;
   width: 20%;
   margin-left: 30px;
 }
+
 .cakes {
   height: :700px;
   width: 800px;
+}
+
+.hob {
+  height: :700px;
+   witdh: :800px;
 }
 
 .cook {
