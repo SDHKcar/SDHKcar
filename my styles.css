@@ -133,7 +133,7 @@ font-size: 40px;
 }
 
 .hob {
-  height: :700px;
+  height: 700px;
   width: 800px;
 }
 
@@ -193,5 +193,6 @@ font-size: 40px;
 
 .bottom-cloud {
   position: absolute;
-  left: 300px bottom: 300px;
+  left: 300px;
+  bottom: 300px;
 }
